@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1492182087 source:c:\users\cjl\desktop\snake\library.c
+	<stdio.h>
+	<windows.h>
+	"Library.h"
+
+1492237609 source:c:\users\cjl\desktop\snake\main.c
+	<stdio.h>
+	"Library.h"
+	"Snake.h"
+
+1492237488 source:c:\users\cjl\desktop\snake\snake.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"Snake.h"
+
+1492160170 c:\users\cjl\desktop\snake\library.h
+
+1492236559 c:\users\cjl\desktop\snake\snake.h
+
+1492182087 source:c:\users\cjl\desktop\temporary\snake\library.c
+	<stdio.h>
+	<windows.h>
+	"Library.h"
+
+1492237877 c:\users\cjl\desktop\temporary\snake\library.h
+
+1492239013 source:c:\users\cjl\desktop\temporary\snake\main.c
+	<stdio.h>
+	"Library.h"
+	"Snake.h"
+
+1492236559 c:\users\cjl\desktop\temporary\snake\snake.h
+
+1492352737 source:c:\users\cjl\desktop\temporary\snake\snake.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"Snake.h"
+
